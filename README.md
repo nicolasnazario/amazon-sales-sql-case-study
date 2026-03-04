@@ -17,7 +17,7 @@ The objective was to simulate a real-world business analysis scenario and extrac
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains 50,000 Amazon sales transactions including:
 
@@ -38,7 +38,7 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ---
 
-## ❓ Business Questions Analyzed
+## Business Questions Analyzed
 
 1. What are the overall revenue and order KPIs?
 2. Which product categories drive the most revenue?
@@ -52,7 +52,7 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Total revenue exceeded $32M across 50,000 transactions.
 - Revenue is concentrated in a small number of product categories.
@@ -63,7 +63,7 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ---
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 1. Import the dataset into PostgreSQL.
 2. Open `amazon_sales_case_study.sql` in pgAdmin or VS Code.
@@ -71,7 +71,7 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ---
 
-## 📌 Author
+## Author
 
 Nicolas Nazario  
 Aspiring Data Analyst | SQL | Excel | Tableau
