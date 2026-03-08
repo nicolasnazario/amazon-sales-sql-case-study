@@ -65,6 +65,7 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ## Files in This Repository
 amazon_sales_case_study.sql containing the queries used 
+sql.results file containing the results of the queries 
 
 ---
 
