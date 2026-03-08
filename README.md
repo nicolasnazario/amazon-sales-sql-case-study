@@ -63,11 +63,9 @@ The dataset contains 50,000 Amazon sales transactions including:
 
 ---
 
-## How to Run This Project
+## Files in This Repository
 
-1. Import the dataset into PostgreSQL.
-2. Open `amazon_sales_case_study.sql` in pgAdmin or VS Code.
-3. Execute each section to reproduce results.
+
 
 ---
 
