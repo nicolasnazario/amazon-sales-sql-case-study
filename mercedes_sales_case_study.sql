@@ -2,7 +2,7 @@
 -- MERCEDES SALES SQL CASE STUDY
 -- Analyst: Nicolas Nazario
 -- Tool: PostgreSQL
--- Dataset: 1.8 Million Mercedees Sales Transactions
+-- Dataset: 1.8 Million Mercedes Sales Transactions
 -- Objective: Analyze revenue drivers and compare car models
               
               
