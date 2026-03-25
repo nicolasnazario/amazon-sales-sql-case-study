@@ -42,11 +42,14 @@ The dataset contains 1.8 million Mercedes_Benz sales with the following fields:
 
 ## Key Insights 
 
-- Luxury vehicles generate the highest revenue despite lower sales volume 
-- Entry-level vehicles drive the majority of total unit sales
-- Turbocharged vehicles show higher average horsepower but do not always lead to higher sales 
-- A strong positive relationship exists between horsepower and vehicle price 
-- Mid-range vehicles provide a balnce between volume and profitability 
+- Entry-level vehicles (A-class, CLA, GLA) contribute significantly tot total sales volume due to affordability
+- Mid-range vehicles, particularly the GLC, rank as the top selling models, indicating strong demand in the mid-tier segment
+- Luxury models such as the S-class show lower sales volume, highlighting the impact of higher pricing on demand
+- The data demonstrates an inverse relagtionship between price and sales volume, with mid-range vehicles balncing demand and profitabilty 
+- Turbocharged vehicles show much higher sales than non-turbo vehicles
+- Customers prefer petrol vehciles over other vehicle types by a large margin 
+  
+  
 
 ---
 
